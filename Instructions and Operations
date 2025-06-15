@@ -1,0 +1,36 @@
+Inclusions and Features
+Can Create Unlimited Users with Own IDs, ( Admin Account, Sales Account) Except in Superadmin Account
+Each individual account can customize its information, including Company ID Number, Profile Photo, Gender, Contact Number, Email, and Nickname.
+Each individual account has its own ID, and for every activity, including the tables you create, only you will be able to see them.
+With Function Notifications, Alert Messages and Sweet Alert Modals
+Super admin | Features and Menus
+(List of Managers, Agents and Users)
+
+Super admin can create, update, and delete managers.
+Super admin can create, update, and delete agents
+Super admin can create, update, and delete users
+Database
+Super admin can export database
+Admin ( CSR Department ) | Features and Menus
+(Dashboard Features)
+
+Line Chart (Stages)
+Pie Chart (Client Gender and Type)
+Card Counts for Total of New Clients and Total Existing Clients
+Filterable Selection of Sales Manager and Their Order Status
+(Customers)
+
+Admin can create, update and delete clients
+Admin can view transaction history of orders and its timelines, with dates and time.
+Admin can print client information transaction history and download it into Microsoft Word.
+(Reports)
+
+Admin can export report in based on customer type, B2B, B2C, B2G, and Master List, depends on date range
+ 
+
+Users | Features and Menus
+Users can create, update and delete client records
+Stages
+
+Users can create transaction, with generated unique reference number, order date (Date Time in Philippines), Select Client Name using Select Option and auto generate all its information.
+In the update modal, there is an 'Update Status' option with 'Engaged' and 'Cancelled.' If 'Cancelled' is selected, a text field will appear for the reason for cancellation and a file upload option for proof of cancellation.
